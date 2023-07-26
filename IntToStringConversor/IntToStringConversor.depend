@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1690394736 source:c:\users\ailin\onedrive\documentos\github\inttostringconversor\inttostringconversor\main.cpp
+	<iostream>
+	"IntString.h"
+
+1690394299 c:\users\ailin\onedrive\documentos\github\inttostringconversor\inttostringconversor\include\intstring.h
+
+1690394483 source:c:\users\ailin\onedrive\documentos\github\inttostringconversor\inttostringconversor\src\intstring.cpp
+	<iostream>
+	"IntString.h"
+
+1690327987 source:c:\users\ailin\onedrive\documentos\github\inttostringconversor\inttostringconversor\src\texttemplate.cpp
+	<iostream>
+	"TextTemplate.h"
+
+1690328182 c:\users\ailin\onedrive\documentos\github\inttostringconversor\inttostringconversor\include\texttemplate.h
+
