@@ -1,19 +1,18 @@
 #include<iostream>
-using namespace std;
 #include "IntString.h"
 
-void IntString::setString(string number="    "){
+void IntString::setString(std::string number="    "){
 _string=number;
 }
-void IntString::setComposeString(string number){
+void IntString::setComposeString(std::string number){
 _string+=number;
 }
 
-string IntString::getString(){
+std::string IntString::getString(){
 return _string;
 
 }
-string IntString::ReturnString(int integrer){
+std::string IntString::ReturnString(int integrer){
 
     int a,b,c;
     IntString value;
@@ -80,4 +79,3 @@ if(b<10 || b>19){
 }
 return value.getString();
 }
-
